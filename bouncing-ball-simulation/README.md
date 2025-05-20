@@ -27,6 +27,7 @@ python3 -m pip install pygame
 ```bash
 python3 bounce.py
 ```
+***Note: In order to run the simulation I had to add a virtual environment, so you might have to as well in order for pygame to run correctly***
 
 ## How It Works
 - At launch, the **Start** button appears on the screen.

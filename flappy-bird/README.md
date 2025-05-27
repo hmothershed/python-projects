@@ -3,7 +3,12 @@ A simple Flappy Bird clone made with **Pygame**. Fly between pipes and try to ge
 
 ### ★─── ⋆⋅ ★ PREVIEW ★ ⋅⋆ ───★
 <br>
-
+<div>
+    <img style= "width: 20vh; margin: 2vh;" src="demo.gif">
+    <img style= "width: 20vh; margin: 2vh;" src="screenshot_1.png">
+    <img style= "width: 20vh; margin: 2vh;" src="screenshot_2.png">
+    <img style= "width: 20vh; margin: 2vh;" src="screenshot_3.png">
+</div>
 <br>
 
 ### ★─── ⋆⋅ ★ HOW TO PLAY ★ ⋅⋆ ───★

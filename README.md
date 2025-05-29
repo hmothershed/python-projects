@@ -9,7 +9,6 @@ Below is a list of project ideas included (or planned) in this repository:
 | ------------------------------ | --------------------------------------------------------------------------- |
 | **Bouncing Ball Simulator**    | An interactive bouncing balls simulation built with Python and Pygame.      |
 | **Flappy Puff**                | A simple Flappy Bird clone made with Pygame.                                |
-| **Mood Weathear App**          | Pull weather data and display it using cute icons and messages.             |
 
 ✅ Projects will be added over time. Check back for new content or follow the repo to stay updated!
 

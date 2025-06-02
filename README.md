@@ -9,6 +9,7 @@ Below is a list of project ideas included (or planned) in this repository:
 | ------------------------------ | --------------------------------------------------------------------------- |
 | **Bouncing Ball Simulator**    | An interactive bouncing balls simulation built with Python and Pygame.      |
 | **Flappy Puff**                | A simple Flappy Bird clone made with Pygame.                                |
+| **Memory Match Game**          | Flip cards and match images while being timed and moves counted.            |
 
 ✅ Projects will be added over time. Check back for new content or follow the repo to stay updated!
 
